@@ -1,0 +1,14 @@
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\bin\Debug\net6.0\figure with stars.exe
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\bin\Debug\net6.0\figure with stars.deps.json
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\bin\Debug\net6.0\figure with stars.runtimeconfig.json
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\bin\Debug\net6.0\figure with stars.dll
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\bin\Debug\net6.0\figure with stars.pdb
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\figure with stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\figure with stars.AssemblyInfoInputs.cache
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\figure with stars.AssemblyInfo.cs
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\figure with stars.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\figure with stars.dll
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\refint\figure with stars.dll
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\figure with stars.pdb
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\figure with stars.genruntimeconfig.cache
+C:\Users\Ali\Documents\C#\figure with stars\figure with stars\obj\Debug\net6.0\ref\figure with stars.dll
